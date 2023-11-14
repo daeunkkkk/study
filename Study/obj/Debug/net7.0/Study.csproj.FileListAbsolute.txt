@@ -1,0 +1,15 @@
+/Users/gwonda-eun/Desktop/study/Study/bin/Debug/net7.0/Study
+/Users/gwonda-eun/Desktop/study/Study/bin/Debug/net7.0/Study.deps.json
+/Users/gwonda-eun/Desktop/study/Study/bin/Debug/net7.0/Study.runtimeconfig.json
+/Users/gwonda-eun/Desktop/study/Study/bin/Debug/net7.0/Study.dll
+/Users/gwonda-eun/Desktop/study/Study/bin/Debug/net7.0/Study.pdb
+/Users/gwonda-eun/Desktop/study/Study/obj/Debug/net7.0/Study.csproj.AssemblyReference.cache
+/Users/gwonda-eun/Desktop/study/Study/obj/Debug/net7.0/Study.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gwonda-eun/Desktop/study/Study/obj/Debug/net7.0/Study.AssemblyInfoInputs.cache
+/Users/gwonda-eun/Desktop/study/Study/obj/Debug/net7.0/Study.AssemblyInfo.cs
+/Users/gwonda-eun/Desktop/study/Study/obj/Debug/net7.0/Study.csproj.CoreCompileInputs.cache
+/Users/gwonda-eun/Desktop/study/Study/obj/Debug/net7.0/Study.dll
+/Users/gwonda-eun/Desktop/study/Study/obj/Debug/net7.0/refint/Study.dll
+/Users/gwonda-eun/Desktop/study/Study/obj/Debug/net7.0/Study.pdb
+/Users/gwonda-eun/Desktop/study/Study/obj/Debug/net7.0/Study.genruntimeconfig.cache
+/Users/gwonda-eun/Desktop/study/Study/obj/Debug/net7.0/ref/Study.dll
