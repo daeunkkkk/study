@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uyfVg947CDM+Pt38vCKhILtW7T6ywqbcPdRNeM7sEhmMwf3L4QQg87lysRzVEmqYmPiFZlaYdxlXq7If7v3Zcw==",
+  "success": true,
+  "projectFilePath": "/Users/gwonda-eun/Desktop/study/Chapter_2/ExploringConsole/ExploringConsole.fsproj",
+  "expectedPackageFiles": [
+    "/Users/gwonda-eun/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

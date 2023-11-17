@@ -1,0 +1,15 @@
+/Users/gwonda-eun/Desktop/study/Chapter_2/bin/Debug/net7.0/Chapter_2
+/Users/gwonda-eun/Desktop/study/Chapter_2/bin/Debug/net7.0/Chapter_2.deps.json
+/Users/gwonda-eun/Desktop/study/Chapter_2/bin/Debug/net7.0/Chapter_2.runtimeconfig.json
+/Users/gwonda-eun/Desktop/study/Chapter_2/bin/Debug/net7.0/Chapter_2.dll
+/Users/gwonda-eun/Desktop/study/Chapter_2/bin/Debug/net7.0/Chapter_2.pdb
+/Users/gwonda-eun/Desktop/study/Chapter_2/obj/Debug/net7.0/Chapter_2.csproj.AssemblyReference.cache
+/Users/gwonda-eun/Desktop/study/Chapter_2/obj/Debug/net7.0/Chapter_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gwonda-eun/Desktop/study/Chapter_2/obj/Debug/net7.0/Chapter_2.AssemblyInfoInputs.cache
+/Users/gwonda-eun/Desktop/study/Chapter_2/obj/Debug/net7.0/Chapter_2.AssemblyInfo.cs
+/Users/gwonda-eun/Desktop/study/Chapter_2/obj/Debug/net7.0/Chapter_2.csproj.CoreCompileInputs.cache
+/Users/gwonda-eun/Desktop/study/Chapter_2/obj/Debug/net7.0/Chapter_2.dll
+/Users/gwonda-eun/Desktop/study/Chapter_2/obj/Debug/net7.0/refint/Chapter_2.dll
+/Users/gwonda-eun/Desktop/study/Chapter_2/obj/Debug/net7.0/Chapter_2.pdb
+/Users/gwonda-eun/Desktop/study/Chapter_2/obj/Debug/net7.0/Chapter_2.genruntimeconfig.cache
+/Users/gwonda-eun/Desktop/study/Chapter_2/obj/Debug/net7.0/ref/Chapter_2.dll
